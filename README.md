@@ -1,7 +1,7 @@
-# Legion del Mal
-Un repositorio para conquistar el mundo
+# Apps Testing
+Check critical commands
 
-Básicamente aprenderemos más sobre Git y GitHub con este proyecto
+Somethings were given for Fernando.
 
 
 # Fernando
