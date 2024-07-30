@@ -1,5 +1,5 @@
 # Columbia University Engineering 
-### Software Engineering Program Executive / Boot Camp Coding   - New York City, The United States, 2025
+### Software Engineering Executive Program / Boot Camp Coding   - New York City, The United States, 2025
 #### ¡Jose Luis Diaz V - aka [Chochy][Facebook] 👋
 - Estos son algunos de mis cursos:
 - 👉[Curso de C](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)[<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]!
