@@ -1,6 +1,6 @@
 # Columbia University Engineering 
 ### Software Engineering Executive Program / Boot Camp Coding   - New York City, The United States, 2025
-#### ¡Jose Luis Diaz V - aka [Chochy][Facebook] 👋
+#### ¡Jose Luis Diaz V -  Conoce un poco mas sobre la Empresa [DataStart][Facebook] 👋
 - Estos son algunos de mis cursos:
 - 👉[Curso de C](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)[<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]!
 - 👉[Curso de Git & GitHub](https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF)[<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][cursoGit&GitHub]!
@@ -116,7 +116,7 @@ __Cursos:__
 [website]: https://capdesis.com/
 [youtube]: https://www.youtube.com/channel/UChoDyFV5T1t9qWymeTz8Gvg
 [instagram]: https://www.instagram.com/c_h_o_c_h_y/
-[Facebook]: https://www.facebook.com/ChoChochitos
+[Facebook]:  https://www.facebook.com/profile.php?id=61550711673826
 [linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
 [cursoC]: https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B
 [cursoGit&GitHub]: https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF
