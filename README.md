@@ -8,6 +8,8 @@
 - ⚡ StarData is a software engineering company focused on helping organizations achieve their strategic plans and organizational goals.
 - ⚡ The company's headquarters are Santa Clara, Silicon Valley, California, U.S.
 
+[![josediazvarela GitHub stats](https://github-readme-stats.vercel.app/api?username=josediazvarela)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contactame!:
 
 [<img align="bottom" alt="capdesis.com" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
